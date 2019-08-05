@@ -1,8 +1,8 @@
 # Wake Up Happy
 
-Wake Up Happy is an iOS video streaming notification reminder app. This app was an idea I had when I first started learning Swift iOS programming, a project I started but couldn't finish at the time due to my lack of knowledge in Swift. Ideally, I would love to publish this to the App Store and be used by those who could use a little bit more happiness in their mornings. Wake Up Happy opens up to a tap screen that plays a video, includes an "About" page and has notification functionality that the user can set to create reminders to watch a video at a certin time every morning.
+Wake Up Happy is an iOS video streaming notification reminder app. This app was an idea I had when I first started learning Swift iOS programming, a project I started but couldn't finish at the time due to my lack of knowledge in Swift. Ideally, I would love to publish this to the App Store and be used by those who could use a little bit more happiness during their mornings. Wake Up Happy opens up to a tap screen that plays a video, includes an "About" page and has notification functionality that the user can set to create reminders to watch a video at a certin time every morning.
 
-I am extremely proud with how the app turned out and that I was able to bring it to completion. The next step now is to expand the database of videos. With Wake Up Happy, I continued my journey using the MVC architecture while learning and using the UserNotifications framework. I also utilized UIPickerView that allow users to set their own reminder time. I used Firebase as the backend and for video storage. And like with all my apps, Wake Up Happy was created without storyboards.
+I am extremely proud with how the app turned out and that I was able to bring it to completion. The next step now is to expand the database of videos. With Wake Up Happy, I continued my journey using the MVC architecture while learning and using the UserNotifications framework and implementing Notifications & Observers. I also utilized UIPickerView that allow users to set their own reminder time. I used Firebase as the backend and for video storage. And like with all my apps, Wake Up Happy was created without storyboards.
 
 <p align="center">
 <img src="images/wakeuphappy/wakeuphappy1.jpg" width="240"  title="WakeUpHappy">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/wakeuphappy/wakeuphappy2.jpg" width="240" title="WakeUpHappy">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/wakeuphappy/wakeuphappy3.jpg" width="240" title="WakeUpHappy">
@@ -14,7 +14,7 @@ Lightsaber is an iOS motion gesture app, a throwback to the early iPhone days an
 
 I am really happy with this project, however, it is not at its final version as I plan to add a variety of lightsabers. Lightsaber was my second app using the MVC pattern, as I wanted to continue practicing and challenging my skills with the MVC architecture pattern. Lightsaber really cemented the MVC pattern into my coding habits, to which I feel very proud of. Additionally, Lightsaber utilizes Auto Layout (no storyboard) for UI design, UIView animations, and UIEvent motion gestures.
 <p align="center">
-<img src="images/lightsaber/lightsaber1.png" width="240"  title="Lightsaber">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/lightsaber/lightsaber2.png" width="240" title="Lightsaber">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/lightsaber/lightsaber3.gif" width="241" title="Lightsaber">
+<img src="images/lightsaber/lightsaber1.jpg" width="240"  title="Lightsaber">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/lightsaber/lightsaber2.jpg" width="240" title="Lightsaber">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/lightsaber/lightsaber3.gif" width="241" title="Lightsaber">
 </p>
 
 
