@@ -5,7 +5,7 @@ Wake Up Happy is an iOS video streaming notification reminder app. This app was 
 I am extremely proud with how the app turned out and that I was able to bring it to completion. The next step now is to expand the database of videos. With Wake Up Happy, I continued my journey using the MVC architecture while learning and using the UserNotifications framework. I also utilized UIPickerView that allow users to set their own reminder time. I used Firebase as the backend and for video storage. And like with all my apps, Wake Up Happy was created without storyboards.
 
 <p align="center">
-<img src="images/wakeuphappy/wakeuphappy1.png" width="360"  title="WakeUpHappy">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/wakeuphappy/wakeuphappy2.png" width="360" title="WakeUpHappy">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/wakeuphappy/wakeuphappy3.png" width="360" title="WakeUpHappy">
+<img src="images/wakeuphappy/wakeuphappy1.png" width="360"  title="WakeUpHappy">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/wakeuphappy/wakeuphappy2.png" width="360" title="WakeUpHappy">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/wakeuphappy/wakeuphappy3.jpg" width="360" title="WakeUpHappy">
 </p>
 
 # Lightsaber
