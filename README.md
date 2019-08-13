@@ -1,3 +1,14 @@
+# Got Trash
+Got Trash is an iOS trash can map locator app. I was inspired to make this app when I lived in South Korea. If there's one thing South Korea is notorious for, it's for their lack of public trash cans, which is how I got the inspiration for this app. Got Trash is a proprietary app I plan to release onto the Apple Store later this year. I have been religiously working on this app for the past month and have enjoyed every moment of it. 
+
+Currently, the app features a fully functional GPS location system, users are also able to center back onto their current location after panning around. Got Trash also features a functional Sign Up and Login screen (including Sign Out functionality) where user authentication is handled by Firebase. There is also the ability to add a trash can at the user's current location. The trash can locations are stored and handled by a Firebase database and queried by GeoFire. Users also have the ability to search for trash cans around a certain address and/or establishment. A slide-out side menu is also featured to allow users to navigate through the app.
+
+I am extremely excited with how far I've been able to take Got Trash, and I can't wait to see what other ideas and functionalities I implement into the app. Through this app, I was really able to challenge and practice my skills on Delegates & Protocols and API calls through Firebase/GeoFire (user authentication, database storage, location queries). I was able to implement two UITableViews, one for the side menu and the other for the UISearchBar (which slides up!), and I really take pride in the fact that I got it to function properly. 
+
+<p align="center">
+<img src="images/gottrash/gt1.jpg" width="240"  title="GotTrash">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/gottrash/gt2.jpg" width="240" title="GotTrash">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/gottrash/gt3.jpg" width="240" title="GotTrash">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/gottrash/gt4.jpg" width="240" title="GotTrash">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/gottrash/gt5.jpg" width="240" title="GotTrash">
+</p>
+
 # Wake Up Happy
 
 Wake Up Happy is an iOS video streaming notification reminder app. This app was an idea I had when I first started learning Swift iOS programming, a project I started but couldn't finish at the time due to my lack of knowledge in Swift. Ideally, I would love to publish this to the App Store and be used by those who could use a little bit more happiness during their mornings. Wake Up Happy opens up to a tap screen that plays a video, includes an "About" page and has notification functionality that the user can set to create reminders to watch a video at a certain time every morning.
