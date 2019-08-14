@@ -2,7 +2,7 @@
 Got Trash is an iOS trash can map locator app. I was inspired to make this app when I lived in South Korea. If there's one thing South Korea is notorious for, it's for their lack of public trash cans, which is how I got the inspiration for this app. Got Trash is a proprietary app I plan to release onto the Apple Store later this year. I have been religiously working on this app for the past month and have enjoyed every moment of it. 
 
 Current features of the app include...
-- Functional GPS location system with ability to center back onto user's current location.
+- Functional GPS location system with ability to center back onto the user's current location.
 - Sign Up/Login/Sign Out functionalities (User authentication created through Firebase).
 - Ability to add a trash can at the user's current location with a random name generator. (Locations are stored on a Firebase database and queried by GeoFire).
 - A slide-out side menu that allows users to navigate through the app.
