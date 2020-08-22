@@ -6,7 +6,7 @@ I am extremely excited and proud with the completion and release of TrashMapr, t
 The goal of TrashMapr is to be a complete database of a city's publicly available trash can locations with updates in real-time from app users and hopefully one day, from city organizations that manage those trash cans. Little do we realize, the pieces of trash we have every day, from a coffee cup to a candy wrapper, can adversely affect our communities and environment if not disposed of properly. TrashMapr aims to make this easier by pointing you to the nearest trash can.
 
 <p align="center">
-<img src="images/trashmapr/screenshot.png" width="240"  title="GotTrash">
+<img src="images/trashmapr/screenshot.png" width="900"  title="GotTrash">
 </p>
 
 # Wake Up Happy
