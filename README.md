@@ -8,9 +8,9 @@ I am extremely excited and proud with the completion and release of TrashMapr. T
 TrashMapr is available for download on the Apple App Store, and currently displays locations of trash cans in San Francisco and Los Angeles. The plan is to add more cities to the app starting with New York and Seattle, and to hopefully work with city organizations to streamline trash can placements and tracking of usage.
 
 ### Tech:
-UIKit
-Google Maps API
-Firebase/GeoFire
+UIKit\
+Google Maps API\
+Firebase/GeoFire\
 Various third-party libraries
 
 <p align="center">
