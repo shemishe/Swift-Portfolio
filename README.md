@@ -24,8 +24,8 @@ ApeRocket is a 2D iOS game comprised of three different modes. Two are inspired 
 ApeRocket is my first mobile game. I made it a goal to complete it under a month and blew it out the water. Through this process I learned a lot about iPhone screen sizes (sizing differs with UIKit, SpriteKit, and ARKit) and how best to frame UI game elements to scale properly on all devices having come from UIKit's Auto Layout. One part of this app I really enjoyed working on was the AR portion, where I learned how to track faces and check for facial expressions.
 
 ### Tech:
-SpriteKit
-GameKit / Game Center
+SpriteKit\
+GameKit / Game Center\
 ARKit / TrueDepth API
 
 <p align="center">
@@ -39,7 +39,7 @@ Wake Up Happy is a video streaming app. This is a personal project where I wante
 I am extremely proud with how the app turned out and that I was able to bring it to completion. A few things I mastered were UserNotifications, UIPickerView, and storing videos via Firebase. I'd love to bring this project back up and publish it to the App Store someday.
 
 ### Tech:
-UIKit
+UIKit\
 Firebase
 
 <p align="center">
